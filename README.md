@@ -1,30 +1,20 @@
 ## 古橋研究室デザイン部 
-2021年度デザイン部のレポジトリです。 グラレコ部と空間デザイン部の合同チームになります。
+2022年度デザイン部のレポジトリです。 
 
 ### メンバー
-グラレコ 
-* Kahoru Sato
-* Haruka Yasuda
-* Ayaka Kawashima
-
-空間デザイン  
-* Ibuki Shibayama
 * Urara Nagashima
+* Kohki Kikuchi
+* Ibuki Shibayama
+* Taiyu Ozawa
+* Motoya Kawano
 * Yuka Saito
-* Atsuko Wakamatsu 
 
 ### 活動日
-毎週火曜日 20:00~21:00 JST
+* 毎週火曜日 or 木曜日
+
 ### 活動内容
-
-グラレコ  
-* 各サークルの週報報告をグラレコ
-* 会議、授業講義等をグラレコにまとめる
-
-空間デザイン 
-* 様々なデザインに触れ、デザインをインプット 
-* コンペ等の参加を通じてデザインを学ぶ
-
+* 古橋ゼミガチャ制作（6月防災フェス@越谷）
+* RICHOプリンターを利用したノベルティ制作（7月オープンキャンパス@相模原キャンパス）
 
 
 
